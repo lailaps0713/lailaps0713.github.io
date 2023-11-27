@@ -11,6 +11,8 @@ tags:
 * [莹](https://user.qzone.qq.com/2291201677)
 * [我妻由乃](https://user.qzone.qq.com/1327229040)
 
+第一次用闪光灯拍照，关于闪光灯的使用笔记可参考该[博客]()
+
 <head>
   <meta charset="utf-8" />
   <title>Swiper demo</title>
@@ -81,64 +83,139 @@ tags:
   <div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="swiper mySwiper2">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0122.jpg?x-oss-process=image/resize,l_1080"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0105.jpg?x-oss-process=image/resize,l_1080"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_1623.jpg?x-oss-process=image/resize,l_1080"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_1286.jpg?x-oss-process=image/resize,l_1080"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_1230.jpg?x-oss-process=image/resize,l_1080"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8283.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8283.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0959.jpg?x-oss-process=image/resize,l_1080"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0852.jpg?x-oss-process=image/resize,l_1080"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0312.jpg?x-oss-process=image/resize,l_1080"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8297.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8297.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0232.jpg?x-oss-process=image/resize,l_1080"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8357.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8357.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8353.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8353.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8382.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8382.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
       </div>
     </div>
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
   </div>
   <div thumbsSlider="" class="swiper mySwiper">
-    <div class="swiper-wrapper">
-      <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0122.jpg?x-oss-process=image/resize,l_270"/>
+    <div class="swiper-wrapper">      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0105.jpg?x-oss-process=image/resize,l_270"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_1623.jpg?x-oss-process=image/resize,l_270"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_1286.jpg?x-oss-process=image/resize,l_270"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_1230.jpg?x-oss-process=image/resize,l_270"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8283.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8283.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0959.jpg?x-oss-process=image/resize,l_270"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0852.jpg?x-oss-process=image/resize,l_270"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0312.jpg?x-oss-process=image/resize,l_270"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8297.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8297.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
       </div>
       <div class="swiper-slide">
-        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0232.jpg?x-oss-process=image/resize,l_270"/>
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8357.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8357.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8353.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8353.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8382.jpg">
+	        <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8382.jpg?x-oss-process=image/resize,l_360"/>
+        </a>
       </div>
     </div>
   </div>
