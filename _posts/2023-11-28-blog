@@ -10,11 +10,226 @@ tags:
 
 如标题所述，当天主要目标是参加MyGO的观影会。但到从深圳跑一趟广州不算很便宜，最后把行程安排的挺满的：先是卡着开门的点去尼康专卖店爽玩镜头；然后是去广州邦咖打卡[^2]，去完邦咖之后去观影地点，中间还能顺路插个动星。不过这也导致时间安排略特种兵。
 
-事实上，相比于到广州南，从深圳去广州的话到广州东会更方便一些，能省下不少市内交通时间。但车次很少是个问题。因为提前买了票我买到了时间比较合适的，正好能卡着正佳广场开门的时间到。
+事实上，相比于到广州南，从深圳去广州的话到广州东会更方便一些，能省下不少市内交通时间。但车次很少是个问题。因为提前买了票我买到了时间比较合适的，正好能卡着正佳广场开门的时间到。这次去的主要目标是测试85mm f1.2这种规格的镜头在手动对焦的情况下表现如何。之前有考虑过买一个中一光学的85 1.2，其镜头成像素质尚可，但是只能手动对焦。因为在闲鱼上找不到价格合适的ai口版本，也没法用天工环转接成自动对焦。测试结果和用景深计算器计算出的结果类似：在24mp的全幅传感器中，进行大半身的拍摄，其景深也不超过2.5cm。而在更近的距离上，即使进行静物拍摄也极为困难[^3]，需要考虑使用脚架进行稳定。135 1.8其实也有类似的问题，但其景深相对更深，手动控制更加容易一些。用这两个镜头拍摄的样张如下，前（）张是85 1.2， 后（）张是135 1.8。均未进行任何后期处理[^4]。
 
+<head>
+  <meta charset="utf-8" />
+  <title>Swiper demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+  <!-- Link Swiper's CSS -->
+  <link rel="stylesheet" href="../assets/css/swiper-bundle.min.css" />
+
+  <!-- Demo styles -->
+  <style>
+    .swiper {
+      width: 100%;
+      height: 100%;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  </style>
+</head>
+
+  <!-- Swiper -->
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+
+  <!-- Swiper JS -->
+  <script src="../assets/js/swiper-bundle.min.js"></script>
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper(".mySwiper", {
+      loop: true,
+      spaceBetween: 10,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper2", {
+      loop: true,
+      spaceBetween: 10,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper3", {
+      loop: true,
+      spaceBetween: 10,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+  </script>
+
+除去对上述镜头的测试外，尼康店里其实还有一些老镜头可以转到z卡口上玩，比如蔡司的55 1.4，奥林巴斯的90 f2，徕卡的100 2.8这样的老镜头。样片也是在下面。老镜头和现代镜头比确实会多出一些光学上的缺陷，但如果要是能想办法利用一下这些特征也是有不低的可玩性的。
+
+  <!-- Swiper -->
+  <div class="swiper mySwiper2">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+
+此外，把老镜头转接到Zf上也是个挺有趣的玩法。虽然Zf过于大的卡口会导致转接后看起来怪怪的，但说实话总比接个Z口原生2470好看。[^5]
+
+<!-- Swiper -->
+  <div class="swiper mySwiper3">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8227.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8224.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8218.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8231.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8289.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8292.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8380.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_8362.jpg?x-oss-process=image/resize,l_1920"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+
+大概12点左右开始往邦咖移动。广州邦咖的位置略偏，甚至在百度地图上直接搜都搜不到得搜它所在的建筑物。
 
 
 
 
 [^1]: 发得晚是因为太摸了一直没时间处整理照片，现在才整理好。
-[^2]: 虽然前几天已经去过沪国邦咖了，而且实际体验广州邦咖确实差点……
+[^2]: 虽然前几天已经去过沪国邦咖了，而且实际体验广州邦咖确实差点，后文会细说。
+[^3]: 指手持拍摄十张里就一张焦点在我想要的地方上的……
+[^4]: 但当时忘了把机内滤镜关上了，但尼康的机内滤镜不会写到raw文件里所以曝光可能有点小问题。
+[^5]: 所以鞋厂的复古Z卡口镜头呢，除了40f2和28 2.8这两个
+
