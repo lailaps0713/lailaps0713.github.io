@@ -45,7 +45,50 @@ MyGO的巡礼地点大致可以被分成到三个区域内：池袋周边，都�
 
 进场落座后如果不能尽快放平座椅就会有工作人员来指导你放下.也因此未能和同行者复刻第十话开头的场景。除了常规座位，前排还有草坪上的座位和云朵座位，会有更好的体验，但需要购买对应的指定席票。在影片正式开始之前可以摄影，但放映开始后就需要关闭或者遮挡所有可能会发光的设备。在放映过程中，我的手表意外亮屏[^2]还被工作人员提醒了。
 
-** 这里是图片 **
+<head>
+  <meta charset="utf-8" />
+  <title>Swiper demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+  <!-- Link Swiper's CSS -->
+  <link rel="stylesheet" href="../assets/css/swiper-bundle.min.css" />
+
+  <!-- Demo styles -->
+  <style>
+    .swiper {
+      width: 100%;
+      height: 100%;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  </style>
+</head>
+
+  <!-- Swiper -->
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+
 
 满天的放映计划可以在前述官网上查到。我们去的时候，其提供4种不同的影片。原计划是看神津岛那场，或者時を刻むこの星空（后者提供中文解说，不过应该是字幕形式）。但因为之前在下北泽耽误了一些时间，没有赶上神津岛那场，最后只能去看了Songs for the Planetarium这场。但出乎意料的是，这场的质量远超预期。在原有预期中，天文馆的放映内容会接近国内科技馆球幕影院所放映的影片，主要是针对中小学生的科普，对我来说可能会略显无趣。但看过之后发现节目水平相当超出预期。尽管主要内容还是科普，但其中的故事编排，配乐以及画面，演出质量都相当高。座位也比较舒适。[^3]
 
@@ -63,11 +106,33 @@ MyGO的巡礼地点大致可以被分成到三个区域内：池袋周边，都�
 
 在MyGO中出现的西班牙台阶和赛百味也在这里。不过赛百味不提供摩卡咖啡，只有热可可或者美式咖啡。所以不太能完全还原第四话开头的场景。周末白天的西班牙台阶人会比较多，因此如果要巡礼的话建议考虑工作日下午到晚上。晚上主要是为了更好的还原原作场景。
 
-** 这里是图片 **
+  <!-- Swiper -->
+  <div class="swiper mySwiper2">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
 在西班牙台阶的对面还有ACOS的本店，里面有Lovelive和Bangdream的校服出售。不过目前还没有羽丘一年级的校服。
 
-** 这里是图片 **
+  <!-- Swiper -->
+  <div class="swiper mySwiper3">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
 第二次来池袋则是8月30日晚上。这次则进行了相对完整的巡礼，包括RiNG，东池袋中央公园，祥子给初华打电话的地方。还有Gamers和Animate的池袋本店，里面也有大量的MyGO要素。原计划是去参加当天鲤鱼在Sunshine City之前的签售会的。但路上看战报发现去的人很多导致CD已经卖完了，好位置也没有了。于是决定放弃签售会，去Animate和Gamers购物。
 
@@ -75,78 +140,364 @@ MyGO的巡礼地点大致可以被分成到三个区域内：池袋周边，都�
 
 Animate则是在面积和商品品类上显著的优于秋叶原Animate。Animate没有什么作品的倾向性，但有一块专门的MyGO的展区。要说有什么问题的话那就是不能跨层结算免税了。
 
-** 这里是图片 **
+  <!-- Swiper -->
+  <div class="swiper mySwiper4">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
 在去巡礼之前，我先去了鲤鱼的签售会场地。到达时间是在活动结束时间的15分钟后。比较意外的是到的时候场地已经被完全清空了，清理的效率意外的很高。于是就直接去了西班牙台阶拍照。因为不是周末，台阶上的人不是很多，比较方便拍照。按照动画里的角度拍了几张。之后还去了趟东池袋中央公园，也就是爱音见到初中同学的地方。CRYCHIC解散的地点比较远，因为时间原因就没有去巡礼。
 
 事实上，西班牙台阶是仿造景点，其[原型](https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%9A%8E%E6%A2%AF)是位于意大利罗马的一座户外阶梯，与西班牙广场相联接，在电影"罗马假日"中有出现。目前，在意大利的西班牙台阶已经不允许游客坐下了，但池袋这里的仿品还能坐下。大概能算某种代餐？（笑）
 
-** 这里是图片 **
+  <!-- Swiper -->
+  <div class="swiper mySwiper5">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
 东池袋中央公园则只是一个普通的商业区中的小型公园，除去巡礼外没有太多有趣的地方。这里有一些都市灵异传说，但去的时候并没有感觉到很阴森的氛围，要说的话只是公园显得稍微有些旧了。在这里我试着找了爱音倒下的位置拍了几张。加点鱼眼畸变可能就更像动画了[^10]。
 
-** 这里是图片 **
+  <!-- Swiper -->
+  <div class="swiper mySwiper6">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
-至于MyGO主视觉图所出现的高架桥下的画面，因为在马路上不太好取景就放弃掉拍摄了。但从池袋往Sunshine City走肯定会经过那里。
+至于MyGO主视觉图所出现的高架桥下的画面，因为在马路上不太好取景就放弃拍摄了。从池袋往Sunshine City走肯定会经过那里。
 
 第三次来池袋则是从池袋南侧巡礼完之后准备回酒店，在路上补一下之前没去的卡拉OK以及食之绿空中庭院。卡拉OK我还找错了，应该是池袋东口店，我去成了池袋南口店。食之绿空中庭院是一个位于屋顶的美食广场，部分店的价格还算实惠。需要注意的是其在不同季节，周末和工作日的营业时间是不同的，在去之前记得查询营业时间以免错过。此外上楼的路径也比较绕，记得从商场的中间位置上楼。我是在这里面接近南侧的一个披萨店点了晚餐，但忘了拍照了。这家的池袋限定披萨味道还挺不错的，可以尝试一下。
 
 祥子和初华见面的桥在北侧，只是一个布景。晚上拍摄的话出片效果一般，有可能的话建议还是白天来。如果继续往北走还能见到一个位于屋顶的小神社，或许应该称为神龛？
 
-** 这里是图片 **
+  <!-- Swiper -->
+  <div class="swiper mySwiper7">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
 ## 都电荒川线南侧
 
 都电荒川线南侧是一系列名场景的发生地。在这里也能体验到立希送灯回家，灯上学的路径等。都电荒川线本身也是东京都内仅存的两条有轨电车路线之一。其运营模式类似公交，即上车计费而非按进出站收费。这也让利用都电荒川线进行长距离移动比JR或是地铁更便宜。这就能解释为什么祥子放学后会前往早稻田站乘车：一是价格问题，另一个则是能回避琦京线，避免意外遇到月之森的同学。在都电荒川线的严格沿线上，鬼子母神前、早稻田站这两个站点和MyGO的联系最为密切。
 
-** 这里是图片 **
+  <!-- Swiper -->
+  <div class="swiper mySwiper8">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
 我当天的巡礼路径是乘坐都电荒川线到早稻田站，从这里开始向西出发到达面影桥，高户桥，然后转向北侧到达千登世桥，往灯的家和富士见坂各绕一圈，最后走回池袋。
 
 面影桥和高户桥都在神田川沿线。沿着河有不少樱花树，如果春天来的话可能会比较好看。
 
-** 这里是面影桥图片 **
+  <!-- Swiper -->
+  <div class="swiper mySwiper9">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
 然后是千登世桥。这里也贡献了大量的名场景。同样因为铁路沿线樱花的存在，春天来会有比较好的效果。记得伸手去够一下花，但不要掉下去了，毕竟不是所有人都能被祥子拉住的（笑）。
 
-** 这里是图片 **
+  <!-- Swiper -->
+  <div class="swiper mySwiper10">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
-灯的家门口的步道桥也是重点。比较令人遗憾的是，在面向池袋和灯的家一侧步道桥护栏有加高，因此不太能完全复刻想要成为人类的场景了。
+灯的家门口的步道桥也是重点。比较令人遗憾的是，在面向池袋和灯的家一侧。步道桥护栏有加高，因此不太能完全复刻"人間になりたいですわ！！！"的场景，不过对着相反的方向喊一句似乎也没太大区别。
 
-** 这里是图片 **
+  <!-- Swiper -->
+  <div class="swiper mySwiper11">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
-往富士见坂走则比较绕，如果走到那里了走回早稻田坐车可能是比较好的选择。还能顺带体验一下客服小祥的回家路线。灯的第十集开头的失败语音则是在相反的方向，建议折返跑锻炼一下体力。不过为什么灯上学会从这里走我就不知道了，这应该完全不顺路？除非出于某些奇怪的原因坐车坐到了早稻田站。
+往富士见坂走在我当天的巡礼行程中比较绕，从那里走回早稻田坐车可能是比较好的选择。还能顺带体验一下客服小祥的回家路线。灯的第十集开头的失败语音则是在相反的方向，建议折返跑锻炼一下体力。不过为什么灯上学会经过这里我就不知道了。按理说只有从早稻田站走到羽丘才会经过这里。
 
-** 这里是图片 **
+  <!-- Swiper -->
+  <div class="swiper mySwiper12">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
-走回去的路上还能经过鬼子母神神社。这个神社在东京作为求子神社有一定知名度。不过到的时候已经关门了，就只在外面拍了两张。
+走回去的路上还能经过鬼子母神堂。这个神社在东京作为求子神社有一定知名度。不过到的时候已经关门了，就只在外面拍了两张。
 
-** 这里是图片 **
+  <!-- Swiper -->
+  <div class="swiper mySwiper13">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_7645.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
+走下来这一圈体能消耗不算很小，可能有负重的原因，相机还是太重了。考虑到以后还要背补光设备和更多镜头，以后出门说不定得叫上一个工具人。taki的体能可能也是每天送灯练出来的（笑）。
 
+## 京滨东北线沿线
 
+京滨东北线沿线的巡礼我分了两次进行。一次是在ASL D3散场后去了飞鸟山公园和Space，另一次则是去了旧古河庭院，离开后经由飞鸟山公园返回京滨东北线。
 
-飞鸟山公园
-======
-飞鸟山公园一线的巡礼点主要有两个，飞鸟山公园喷水池附近和旧古河庭院，两者之间需要15分钟左右的步行。从旧古河庭院到最近车站需要10分钟左右的时间。
+Livehouse Space的原型是西川口Livehouse Hearts。其在Bangdream的设定中闭店了，但其原型目前仍在运营。我到达时那里还在开作战会议。为了不打扰到别人可以避开了会拍到人的角度。在旁边也确实有一个停车场。
 
-**飞鸟山公园细节**
+ <!-- Swiper -->
+  <div class="swiper mySwiper14">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0366.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0366.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
-**旧古河庭院细节**
+紧接着就是飞鸟山公园。从京滨东北线到达的话，走过天桥一直往南就可以走到喷泉处，也就是结束2023年挺萌悬念的地方。这里的场景几乎和动画完全一样，细心一些的话能找到所有的角度。除了在动画中背景里的电车被树木遮挡以及电车方向略有不同外，是可以做到完全复刻的。晚上去的话公园会比较安静，本来还以为会有不少人在看完MyGO的演出之后去巡礼的，但实际上就我们一行人。当天晚上大概停留了30分钟左右，因为要赶最后一班电车实在没法久留。下面的第二张照片里，博主站的位置就是动画里祥子站的位置，可以作为巡礼参考[^13]。关于照片质量方面，当时新相机刚到手，操作还不熟练，过于相信机器的防抖导致照片相当糊而且高光溢出。希望之后还有机会重拍。
 
-赤羽站
-======
-赤羽站附近主要是祥子的新家。这一部分因为出现较晚，我未能成功巡礼。这里参考其他人的巡礼攻略进行规划
+  <!-- Swiper -->
+  <div class="swiper mySwiper19">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0415.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0415.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0409.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0409.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2340.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2340.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0379.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0379.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0396.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0396.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0386.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_0386.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
 
-**参考其他人攻略**
+公园内也有一些樱花树。据行前查到的资料所说，这里是一个相当知名的赏樱地点。里面还有一些退役的电车和一些博物馆。纸之博物馆据说比较有趣，但因为时间原因未能成行[^12]。此外，公园内还有一个游乐设施，大概应该算儿童城堡？这个设施在Bangdream的其他动画中出现过，但我不确定是哪一季。
 
-其他地点
-======
+  <!-- Swiper -->
+  <div class="swiper mySwiper15">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2334.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2334.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2355.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2355.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2333.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2333.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2354.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2354.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+
+最后是旧古河庭院。这里作为海猫鸣泣之时的圣地也有过出现。去的时候可能因为到的比较早，整体客流量不是很大。景点门口可以免费寄存行李。
+
+旧古河庭院可以分为两个部分，洋馆与附近的西式庭院，以及另一侧的日式园林。
+
+就占地面积而言，日式园林面积更大一些。其以池塘为中心展开，视野较为开阔，里面没有太多假山和建筑，但有大量种类各不相同的灯笼，还配有文字说明其形制。这些灯笼可能有一定的文化背景，但我对这方面了解不多。此外因为去的时候不是花期，只能看到树叶，春天去可能会有更好体验。另一个问题是池塘里死水略多，有不少水华。
+
+  <!-- Swiper -->
+  <div class="swiper mySwiper16">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2279-HDR.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2279-HDR.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2282.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2282.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2290.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2290.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2292.jpg.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2292.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2303.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2303.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2315.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2315.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+
+洋馆作为整个庭院的核心存在，围绕着洋馆的有入口处的大草坪，与更靠近洋馆的蔷薇属植物种植区。据说每年日本的全国蔷薇比赛就是在这里进行。由于去的时候不是这类植物的花期，我只能想象其开花时的状况了。里面有一株月季的标牌上写着是雅子[^11]种的。
+
+  <!-- Swiper -->
+  <div class="swiper mySwiper17">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2326.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2326.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2275.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2275.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2267.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2267.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2257.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2257.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+
+进入洋馆需要额外购买门票且禁止摄影，只能在门口拍上两张。里面的餐厅在12点后提供茶点，可以在这里点杯大吉岭红茶，再来块蛋糕，体验一下客服小祥曾经的生活。红茶是700日元，蛋糕600日元，不过不要对这里的茶点有过高的期望。如果只点餐的话，工作人员会把你带到餐厅，但是其他地方不能前往。建筑物的结构和内部图片可以参考[官网](http://www.otanimuseum.or.jp/kyufurukawatei/)。这里就不作赘述了。如果想了解其历史背景也可以从官网找到。
+
+  <!-- Swiper -->
+  <div class="swiper mySwiper18">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2328.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2328.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2261-HDR.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2261-HDR.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2258-HDR.jpg">
+          <img src="https://lailaps0713-blog.oss-cn-shanghai.aliyuncs.com/img/2023/DSC_2258-HDR.jpg?x-oss-process=image/resize,m_pad,h_720,w_1080,color_FFFFFF"/>
+        </a>
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+
+赤羽站和祥子的新家则因为当时还没有第13话的内容而未能成行。
+
+##其他零散地点
+
+这些地点因为比较零散加上旅行时的整理不足我均未能成行，之后有再去的机会的话会考虑补上。
 
 #待完善的部分
 
 目前，在动画中有出现过但还没被定位到的场景有：
-* 爱音的家
+* 爱音的家（可能不实际存在）
 * 爱音在英国的学校
 * 演出或者排练结束后谈心的外置楼梯（可能不实际存在）
 * 月之森的定期演奏会地点，动画中为フクロウの森文化会馆（猫头鹰之森文化会馆）但未能和任何我熟悉的场地匹配上。
@@ -155,52 +506,7 @@ Animate则是在面积和商品品类上显著的优于秋叶原Animate。Animat
 * 祥子的新家（可能不实际存在）
 * 睦的家（可能不实际存在）
 
-如果有人定位到了这些点，希望能通过邮件联系我，我会增加这个地点到地图上。
-
-#后记
-
-
-
-
-
-
-
-
-
-asl结束之后就直接去巡mygo了。p1是livehouse space原型（猫猫老家），后面是飞鸟山公园，都在京滨东北线沿线。livehouse我们过去的时候里面还在开作战会议。本来预期mygo演出结束后会有不少人去飞鸟山公园巡礼的结果发现就我们。p2356都是还原了第八集里的分镜（开头，睦头人背刺的那个远景，惊世一跪，结尾）。p4基本还原了祥子（我）和soyo（背包+扇子）的站位但角度不是那么对。
-其实拍的分镜更多但糊片问题太严重了……只能说新相机到手需要磨合一段时间，尤其是极端光照环境下拍摄。如果真的按照原计划翻拍第八话的话乐观估计至少需要3h（以及灯光，体力还有脚架）。而且看起来机器也需要用a7s3那类高感特化机型
-
-疯狂星期四没有mygo看，只能发一下之前巡到的mygo圣地解解馋了（截止到第十二话，当时还没有第十三话的劲爆尾杀）
-​p1，飞鸟山公园，对应第八话，还原了动画分镜
-​p2，sunshine city附近的小公园，对应第五话爱音被taki破防跑路之后遇到初中同学的地方，计划还原动画分镜但还原的不太好…
-​p3，sunshine city的西班牙台阶，事故多发地，包括但不限于第四话，第五话，第十话，第十三话，第二张还原了第五话的分镜
-​p4，sunshine city顶上的水族馆，天文馆和天文馆门口的tmr立牌，也是事故多发地。以及有机会的话强烈推荐去那个天文馆
-​p5，千登世桥（？），tmr和魅魔形态祥子初遇的地方，对应第三话，但第九话也有出现。还原了动画分镜
-​p6，tmr家门口的步道桥，第一张是大祥老师喊 人間になりたい 的分镜，第二张中间的楼是tmr家。
-​p7，祥子和初华见面的桥，对应第八话，在jr池袋站正上方的商场顶层。（我也不知道动画里从天文馆出来之后为什么会直接到这里，可能是空间被重力扭曲了罢）
-​p8是动画里的一些标志性建筑物，从上到下分别是动画里的livehouse space（猫猫家？），sunway，大祥老师（原来的？）家，（crychic/mygo唯一指定）卡拉ok，livehouse ring
-​p9也比较杂（为什么只能九图……）分别是都电荒川线的早稻田站（第九话），富士见坂（大祥老师每天回家经过的路）以及taki家（第六话，还原了动画分镜）
-
-
-
- 之后是去了池袋南侧巡mygo，路线大概是在大冢站前转都电荒川线，然后一路坐到早稻田，从早稻田往回走，大概就能把mygo的几个重要地点（早稻田站，taki家，千登世桥，tmr家，富士见坂）都转一遍。不过需要注意的是步行距离可能会出乎意料的长。中间有不少小点（ed相关）在这里我没提到，后续如果有空做巡礼攻略的话再说。
-自己走过一圈之后感觉taki的体能就是每天送完tmr之后走回家练出来的，从tmr家到taki家还是有一些距离的，每天都这么走的话确实还挺健身的。
-
-巡mygo还有个比较尴尬的地方是从tmr家回池袋没有很合适的轨道交通方案，只能是走回去。不过在路上能经过鬼子母神神社。这个似乎在东京作为求子神社还挺出名的（红螺寺并感？）
-p3是卡拉OK馆，不过根据新的巡礼情报可能并不是这一家？回头可能要重新定位一下。
-p4是鲤鱼姐的新广告牌，旧广告牌在9.1的时候已经被撤掉了。
-
-
- 2号因为下午要去成田坐飞机只有一个上午的时间可用。本来是打算去皇居的，但是到的时候当日参观已经约没了，还是得早点去排队，要不然就是去宫内厅线上预约，但线上预约是真的要提前两个月……于是在皇居门口拍了点就跑了。
-之后本来想去上野之森看cy展的，但是也是查了一下发现没票了。于是临时起意决定去大祥老师家（至少我巡礼的时候还是）看看。似乎不少动画里大小姐家的原型都是旧古河庭院？
-
- 旧古河庭院占地面积相当大，主要是在后院，虽说前院的草坪也不算小了。后院设计大概是在传统日式园林的基础上引入了一些西方要素，以池塘为中心展开，视野相对开阔，主要的布景通过各种形制的灯笼完成，取代了假山这类堆景的地位。不过不知道为什么池塘里死水略多水华控制的不是很好，可能是没经费？不过至少池塘中间没有太多。
-前院主要是大草坪，以及大量的月季/玫瑰种植。里面有一株月季是雅子皇后种的（丰川家绝对是华族吧，很难想象大祥老师是怎么沦落成客服的）。建筑物本身可以进入但需要额外购买门票。内部摄影禁止只能是大概描述一下。从走廊进去之后左转是阳光房，留了一个门可以进草坪但对游客封闭。这个房间通过画室（用来画窗外玫瑰的）和餐厅连接。餐厅提供茶点，可以在这里点杯大吉岭红茶，再来块蛋糕，体验一下客服小祥曾经的生活（x）。不过出品确实比较一般，怀疑用的不是高级茶，蛋糕大概是从外面打包的，不过也不能指望在这种古建筑里做就是了。从餐厅出去就是客厅（或者说应该算客厅？），里面有钢琴但是被罩的很严实。整体装潢偏西式风格。二层只开放了一半（书房部分），在里面展示了曾经的居住者的一些著作。整体装修风格偏向日式，卧室什么的应该也在里面但进不去。也不知道是榻榻米还是标准卧室。
-
-（终于更完了……）最后上车去机场之前还走到了飞鸟山公园那边补了点照片，不过因为赶车拍的特别急，感觉还不如之前晚上那些。以及飞鸟山公园和祥子家的距离也不算很近了，大祥老师大概是在故意避开自己（以前的）家门口？
-最后一张是在飞机上拍的，不在窗边只能这样了。以及小心香港航空，如果要坐港航的话请提前3h到机场，要不然值机队伍会让你怀疑人生……理论上来说值机不排队的话提前2h甚至90分钟到都是可以接受的，出海关的速度相当快，和中国国内的航班区别不算大。似乎基本不会查你有没有开消耗性免税品的包装什么的（也可能只是抽查？）
-最后是在香港落地。建议坐大巴到口岸或者至少到九龙附近，港铁实在是有点贵…以及香港宰客问题比东京严重不少，吃晚饭的时候就被坑了一些。建议只是过境hk的话身上也带点港币或者八达通。
-
+如果有人定位到了这些点，希望能通过邮件联系我，我会增加这个地点到地图上。我的邮箱地址可以在主页上找到。
 
 [^1]: 事实上在天文馆入口，从检票口进场之后右转就能看见。我以为是在出场的位置，因此在进场时没有注意到
 [^2]: 我自己都没注意到它亮了
@@ -212,3 +518,165 @@ p4是鲤鱼姐的新广告牌，旧广告牌在9.1的时候已经被撤掉了。
 [^8]: 但从现在等到循环完一圈得到锤历27k了，已经是黑暗时代了（悲）
 [^9]: 从效果来讲，由于玻璃幕墙的存在，将优衣库作为RiNG会比Mixalive的效果会好一些
 [^10]: 但动画里爱音倒下也只是在幻想中？
+[^11]: 目前的日本皇后，大祥老师曾经是华族无疑了。
+[^12]: 从旧古河庭院过来那天之后要赶飞机所以时间很紧张。
+[^13]: 也感谢我的单肩包和扇子扮演soyo
+
+<!-- Swiper JS -->
+  <script src="../assets/js/swiper-bundle.min.js"></script>
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper(".mySwiper", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper2", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper3", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper4", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper5", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper6", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper7", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper8", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper9", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper10", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper11", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper12", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper13", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper14", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper15", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper16", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper17", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper18", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper19", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+  </script>
