@@ -197,6 +197,10 @@ collections:
   sandbox:
     output: true
     permalink: /:collection/:path/
+  subpages:
+    output: true
+    permalink: /:collection/:path/
+  
 
 
 
