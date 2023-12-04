@@ -8,6 +8,37 @@
 
 Livehouse Space的原型是西川口Livehouse Hearts。其在Bangdream的设定中闭店了，但其原型目前仍在运营。我到达时那里还在开作战会议。为了不打扰到别人可以避开了会拍到人的角度。在旁边也确实有一个停车场。
 
+<head>
+  <meta charset="utf-8" />
+  <title>Swiper demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+  <!-- Link Swiper's CSS -->
+  <link rel="stylesheet" href="../assets/css/swiper-bundle.min.css" />
+
+  <!-- Demo styles -->
+  <style>
+    .swiper {
+      width: 100%;
+      height: 100%;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  </style>
+</head>
+
  <!-- Swiper -->
   <div class="swiper mySwiper14">
     <div class="swiper-wrapper">
