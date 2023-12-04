@@ -52,7 +52,7 @@ Livehouse Space的原型是西川口Livehouse Hearts。其在Bangdream的设定�
     <div class="swiper-button-prev"></div>
   </div>
 
-紧接着就是飞鸟山公园。从京滨东北线到达的话，走过天桥一直往南就可以走到喷泉处，也就是结束2023年挺萌悬念的地方。这里的场景几乎和动画完全一样，细心一些的话能找到所有的角度。除了在动画中背景里的电车被树木遮挡以及电车方向略有不同外，是可以做到完全复刻的。晚上去的话公园会比较安静，本来还以为会有不少人在看完MyGO的演出之后去巡礼的，但实际上就我们一行人。当天晚上大概停留了30分钟左右，因为要赶最后一班电车实在没法久留。下面的第二张照片里，博主站的位置就是动画里祥子站的位置，可以作为巡礼参考[^13]。关于照片质量方面，当时新相机刚到手，操作还不熟练，过于相信机器的防抖导致照片相当糊而且高光溢出。希望之后还有机会重拍。
+紧接着就是飞鸟山公园。从京滨东北线到达的话，走过天桥一直往南就可以走到喷泉处，也就是结束2023年挺萌悬念的地方。这里的场景几乎和动画完全一样，细心一些的话能找到所有的角度。除了在动画中背景里的电车被树木遮挡以及电车方向略有不同外，是可以做到完全复刻的。晚上去的话公园会比较安静，本来还以为会有不少人在看完MyGO的演出之后去巡礼的，但实际上就我们一行人。当天晚上大概停留了30分钟左右，因为要赶最后一班电车实在没法久留。下面的第二张照片里，博主站的位置就是动画里祥子站的位置，可以作为巡礼参考[^1]。关于照片质量方面，当时新相机刚到手，操作还不熟练，过于相信机器的防抖导致照片相当糊而且高光溢出。希望之后还有机会重拍。
 
   <!-- Swiper -->
   <div class="swiper mySwiper19">
@@ -92,7 +92,7 @@ Livehouse Space的原型是西川口Livehouse Hearts。其在Bangdream的设定�
     <div class="swiper-button-prev"></div>
   </div>
 
-公园内也有一些樱花树。据行前查到的资料所说，这里是一个相当知名的赏樱地点。里面还有一些退役的电车和一些博物馆。纸之博物馆据说比较有趣，但因为时间原因未能成行[^12]。此外，公园内还有一个游乐设施，大概应该算儿童城堡？这个设施在Bangdream的其他动画中出现过，但我不确定是哪一季。
+公园内也有一些樱花树。据行前查到的资料所说，这里是一个相当知名的赏樱地点。里面还有一些退役的电车和一些博物馆。纸之博物馆据说比较有趣，但因为时间原因未能成行[^2]。此外，公园内还有一个游乐设施，大概应该算儿童城堡？这个设施在Bangdream的其他动画中出现过，但我不确定是哪一季。
 
   <!-- Swiper -->
   <div class="swiper mySwiper15">
@@ -166,7 +166,7 @@ Livehouse Space的原型是西川口Livehouse Hearts。其在Bangdream的设定�
     <div class="swiper-button-prev"></div>
   </div>
 
-洋馆作为整个庭院的核心存在，围绕着洋馆的有入口处的大草坪，与更靠近洋馆的蔷薇属植物种植区。据说每年日本的全国蔷薇比赛就是在这里进行。由于去的时候不是这类植物的花期，我只能想象其开花时的状况了。里面有一株月季的标牌上写着是雅子[^11]种的。
+洋馆作为整个庭院的核心存在，围绕着洋馆的有入口处的大草坪，与更靠近洋馆的蔷薇属植物种植区。据说每年日本的全国蔷薇比赛就是在这里进行。由于去的时候不是这类植物的花期，我只能想象其开花时的状况了。里面有一株月季的标牌上写着是雅子[^3]种的。
 
   <!-- Swiper -->
   <div class="swiper mySwiper17">
@@ -222,3 +222,63 @@ Livehouse Space的原型是西川口Livehouse Hearts。其在Bangdream的设定�
   </div>
 
 赤羽站和祥子的新家则因为当时还没有第13话的内容而未能成行。
+
+[^1]: 也感谢我的单肩包和扇子扮演soyo
+[^2]: 从旧古河庭院过来那天之后要赶飞机所以时间很紧张。
+[^3]: 目前的日本皇后，大祥老师曾经是华族无疑了。
+
+
+<!-- Swiper JS -->
+  <script src="../assets/js/swiper-bundle.min.js"></script>
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper(".mySwiper14", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper15", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper16", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper17", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper18", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+    var swiper = new Swiper(".mySwiper19", {
+      autoHeight: true,
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+  </script>
