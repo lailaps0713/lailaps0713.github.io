@@ -286,6 +286,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _subpages
+  - scope:
+      path: ""
+      type: subpages
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   
 
 # Sass/SCSS
