@@ -9,3 +9,6 @@ main:
 
   - title: "沙盒"
     url: /sandbox/
+
+  - title: "子页面"
+    url: /subpages/
